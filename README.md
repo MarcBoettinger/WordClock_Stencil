@@ -3,14 +3,7 @@
 WordClock stencil for the project described in
 https://smarthome.family.blog/2018/12/10/ikea-ribba-wordclock-bussystem/
 
-Zum Inhalt springen
-Suchen
-Icon Smarthome.family.blog
-SmartHome & Internet of Things | Anleitung, Tests, Empfehlungen
 
-Portal über Raspberry PI, FHEM Server, HomeMatic, Smartphones & Telegram Bots, AES Verschlüsselung, WordClock, Hexakopter & Drohnen.
-
-MENÜSuche öffnen
 WordClock Bausatz – Bussystem
 Qlocktwo Nachbau
 Click here for English version
@@ -175,6 +168,6 @@ If you are interested I will send you the code by email. My email address is in 
 Test
 First of all, all LEDs in the three basic colours RGB are tested. If you have connected everything to a power supply with power indicator, you can see how up to 3A are drawn when all LEDs are switched on. During operation the power consumption is much lower, but the power supply should be powerful.
 
-Have fun doing handicrafts!
+Have fun tinkering!
 
  
